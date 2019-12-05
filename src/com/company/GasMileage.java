@@ -2,13 +2,14 @@ package com.company;
 import java.util.Scanner;
 public class GasMileage {
     public static void main(String[] args) {
+
+        Scanner input = new Scanner(System.in);
+
         int miles=0;
         int gallons;
         float average;
         float totalAverage=0;
         int count=0;
-
-        Scanner input = new Scanner(System.in);
 
         while (miles != -1){
 

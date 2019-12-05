@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d761ea01-b3fd-4535-aad4-d28bd9c72caf" name="Default Changelist" comment="" />
+    <list default="true" id="d761ea01-b3fd-4535-aad4-d28bd9c72caf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DecimalEquivalent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Palindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TabularOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TwoLargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/com/company/GasMileage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter4/com/company/GasMileage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/com/company/SalaryCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter4/com/company/SalaryCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/GasMileage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/GasMileage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ValidatingUserInput.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +29,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UF4Lwy0PJUVzDxOzobMXYQKzOQ" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,9 +48,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SalaryCalculator">
-    <configuration name="CreditsLimitsCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CreditsLimitsCalculator" />
+  <component name="RunManager" selected="Application.TwoLargestNumber">
+    <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.LargestNumber" />
       <module name="Chapter4" />
       <extension name="coverage">
         <pattern>
@@ -42,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GasMileage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.GasMileage" />
+    <configuration name="TabularOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.TabularOutput" />
       <module name="Chapter4" />
       <extension name="coverage">
         <pattern>
@@ -55,18 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Chapter4" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SalaryCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.SalaryCalculator" />
+    <configuration name="TwoLargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.TwoLargestNumber" />
       <module name="Chapter4" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +88,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SalesCommisionCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.SalesCommisionCalculator" />
+    <configuration name="TwoLargestNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.TwoLargestNumbers" />
+      <module name="Chapter4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatingUserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ValidatingUserInput" />
       <module name="Chapter4" />
       <extension name="coverage">
         <pattern>
@@ -92,18 +115,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.GasMileage" />
-      <item itemvalue="Application.CreditsLimitsCalculator" />
-      <item itemvalue="Application.SalesCommisionCalculator" />
-      <item itemvalue="Application.SalaryCalculator" />
+      <item itemvalue="Application.LargestNumber" />
+      <item itemvalue="Application.TabularOutput" />
+      <item itemvalue="Application.TwoLargestNumber" />
+      <item itemvalue="Application.TwoLargestNumbers" />
+      <item itemvalue="Application.ValidatingUserInput" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SalaryCalculator" />
-        <item itemvalue="Application.SalesCommisionCalculator" />
-        <item itemvalue="Application.CreditsLimitsCalculator" />
-        <item itemvalue="Application.GasMileage" />
+        <item itemvalue="Application.TwoLargestNumber" />
+        <item itemvalue="Application.ValidatingUserInput" />
+        <item itemvalue="Application.TwoLargestNumbers" />
+        <item itemvalue="Application.TabularOutput" />
+        <item itemvalue="Application.LargestNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -119,5 +143,18 @@
       <updated>1574938956110</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
